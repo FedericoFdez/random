@@ -1,4 +1,4 @@
-# Readme.md
+# Random Project
 
 Este proyecto tiene como objetivo aprender lo más básico de GitHub y control de versiones basado en Git.
 
